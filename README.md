@@ -3,6 +3,8 @@
 ## Description
 
 The Personal Note Taker is a simple web application that allows users to write, save, and delete notes. This project uses Express.js for the backend and serves static HTML, CSS, and JavaScript files for the frontend. It's a useful tool for anyone who wants to keep track of their thoughts or tasks quickly and efficiently.
+site: https://lrbenjamin.github.io/Personal-Note-Taker/
+Github: https://github.com/Lrbenjamin/Personal-Note-Taker
 
 ## Table of Contents
 
